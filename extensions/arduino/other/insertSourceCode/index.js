@@ -5,7 +5,7 @@ const insertSourceCode = formatMessage => ({
     }),
     extensionId: 'insertSourceCode',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo',
+    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
         'arduinoMega2560', 'arduinoEsp32', 'arduinoEsp8266'],
     author: 'ArthurZheng',
     iconURL: `asset/insertSourceCode.png`,
@@ -20,7 +20,7 @@ const insertSourceCode = formatMessage => ({
     msg: 'msg.js',
     official: true,
     tags: ['other'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://openblockcc.gitee.io/wiki/main'
 });
 
 module.exports = insertSourceCode;

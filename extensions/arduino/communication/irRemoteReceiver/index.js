@@ -5,7 +5,7 @@ const irRemoteReceiver = formatMessage => ({
     }),
     extensionId: 'irRemoteReceiver',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo',
+    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
         'arduinoMega2560', 'arduinoEsp32', 'arduinoEsp8266'],
     author: 'ArthurZheng',
     iconURL: `asset/irRemoteReceiver.png`,
@@ -21,7 +21,7 @@ const irRemoteReceiver = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['communication'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://openblockcc.gitee.io/wiki/main'
 });
 
 module.exports = irRemoteReceiver;

@@ -1,10 +1,14 @@
 {
     "en": {
-        "deviceDemo.name": "Third Party Device Demo",
-        "deviceDemo.description": "An example showing how to add a third-party board."
+        "QDPRobot.description": "QDP robot.",
+        "QDPRobotC02.description": "QDP robot C02.",
+        "ironKit.description": "Yiqichuang iron kit robot.",
+        "dichuangban.description": "dichuangban"
     },
     "zh-cn": {
-        "deviceDemo.name": "第三方设备演示",
-        "deviceDemo.description": "演示如何添加第三方控制板的示例。"
+        "QDPRobot.description": "齐护机器人。",
+        "QDPRobotC02.description": "齐护机器人 C02。",
+        "ironKit.description": "意启创金属套件机器人。",
+        "dichuangban.description": "迪创板"
     }
 }

@@ -5,7 +5,7 @@ const fourDigitClockDisplay = formatMessage => ({
     }),
     extensionId: 'fourDigitClockDisplay',
     version: '1.0.0',
-    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoLeonardo',
+    supportDevice: ['arduinoUno', 'arduinoNano', 'arduinoMini', 'arduinoLeonardo',
         'arduinoMega2560', 'arduinoEsp8266', 'arduinoEsp32'],
     author: 'ArthurZheng',
     iconURL: `asset/fourDigitClockDisplay.png`,
@@ -21,7 +21,7 @@ const fourDigitClockDisplay = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['display'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://openblockcc.gitee.io/wiki/main'
 });
 
 module.exports = fourDigitClockDisplay;

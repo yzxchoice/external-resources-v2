@@ -4,11 +4,13 @@
             "provider": "github",
             "repo": "openblockcc/external-resources-v2"
         },
-        "cn" : {
+        "cn": {
             "provider": "spaces",
             "name": "openblock",
             "path": "resource",
             "region": "sgp1"
         }
-    }
+    },
+    "version": "v0.0.5",
+    "sha256": "b5d86e4a36eba7515a4227f357791d491d2d33818cfa8d5f7612847b23e2a829"
 }
