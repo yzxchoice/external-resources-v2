@@ -9,7 +9,7 @@ module.exports = [
     'microbit',
     'microbitV2',
     'makeyMakey',
-    'dichuangban',
+    'dichuangban1',
     // Third party
     'ironKit_arduinoUno',
     'QDPRobot_arduinoUnoUltra',
